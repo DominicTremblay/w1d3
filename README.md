@@ -1,5 +1,18 @@
 # JavaScript Objects
 
+## Content
+
+- Data Types
+  - Primitive Types
+  - None Primitive Types
+- Array Recap
+- Objects
+  - Creating object litterals
+- Passing values to function
+- Operations on objects (read/set/delete)
+- Looping through object properties
+
+
 ## Data Types
 
 We have 2 types of data in JavaScript:
@@ -19,7 +32,7 @@ We have 2 types of data in JavaScript:
 * null
 * symbol
 
-### Object Types
+### None primitive Types
 
 * None primitive data types such as array and objects are objects
 * Even function are objects!
