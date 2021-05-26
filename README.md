@@ -3,14 +3,10 @@
 ## Content
 
 - Data Types
-  - Primitive Types
-  - None Primitive Types
 - Array Recap
 - Objects
-  - Creating object litterals
-- Passing values to function
-- Operations on objects (read/set/delete)
-- Looping through object properties
+- Value vs Reference Types
+- Looping through object
 
 
 ## Data Types
